@@ -1,0 +1,281 @@
+{
+  "getAllPointsPresent": {
+    "code": "10000",
+    "desc": "成功",
+    "data": [
+      {
+        "id": 50,
+        "name": "彩金",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506673118372.png",
+        "type": "money",
+        "remark": [
+          {
+            "property": "20",
+            "point": "2000.0"
+          },
+          {
+            "property": "40",
+            "point": "12000.0"
+          },
+          {
+            "property": "60",
+            "point": "52000.0"
+          },
+          {
+            "property": "80",
+            "point": "62000.0"
+          },
+          {
+            "property": "100",
+            "point": "72000.0"
+          },
+          {
+            "property": "120",
+            "point": "82000.0"
+          },
+          {
+            "property": "140",
+            "point": "92000.0"
+          },
+          {
+            "property": "160",
+            "point": "102000.0"
+          },
+          {
+            "property": "180",
+            "point": "112000.0"
+          },
+          {
+            "property": "200",
+            "point": "122000.0"
+          },
+          {
+            "property": "200",
+            "point": "132000.0"
+          }
+        ],
+        "property": "商品简介",
+        "order": 1,
+        "status": 1,
+        "startTime": "2017-11-16 11:47:25",
+        "endTime": "2017-11-16 11:47:25",
+        "mallUrl": "购买地址"
+      },
+      {
+        "id": 51,
+        "name": "存送优惠券",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506673125309.png",
+        "type": "coupon",
+        "remark": [
+          {
+            "property": "PT-100",
+            "point": "2000.0"
+          },
+          {
+            "property": "DT-100",
+            "point": "5000.0"
+          },
+          {
+            "property": "ttg-68",
+            "point": "2000.0"
+          },
+          {
+            "property": "DT-20",
+            "point": "2000.0"
+          }
+        ],
+        "property": "商品简介",
+        "order": 7,
+        "status": 1,
+        "startTime": "2017-11-16 11:47:26",
+        "endTime": "2017-11-16 11:47:27",
+        "mallUrl": "购买地址"
+      },
+      {
+        "id": 52,
+        "name": "手机话费",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506673130190.png",
+        "type": "phoneFee",
+        "remark": [
+          {
+            "property": "10",
+            "point": "20000.0"
+          },
+          {
+            "property": "200",
+            "point": "2000000000"
+          },
+          {
+            "property": "属性",
+            "point": "2000.0"
+          }
+        ],
+        "property": "商品简介",
+        "order": 8,
+        "status": 1,
+        "startTime": "2017-11-16 11:47:27",
+        "endTime": "2017-11-16 11:47:28",
+        "mallUrl": "购买地址"
+      },
+      {
+        "id": 53,
+        "name": "手机流量",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506673146630.png",
+        "type": "phoneData",
+        "remark": [
+          {
+            "property": "500",
+            "point": "12000.0"
+          }
+        ],
+        "property": "商品简介",
+        "order": 9,
+        "status": 1,
+        "startTime": "2017-11-16 11:47:28",
+        "endTime": "2017-11-16 11:47:29",
+        "mallUrl": "购买地址"
+      },
+      {
+        "id": 61,
+        "name": "iphone8",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170927_1506492437558.png",
+        "type": "physical",
+        "remark": [
+          {
+            "property": "磨砂黑32G",
+            "point": "20000.0"
+          },
+          {
+            "property": "属性",
+            "point": "2000.0"
+          }
+        ],
+        "property": "商品简介",
+        "order": 2,
+        "status": 1,
+        "startTime": "2017-11-16 11:47:31",
+        "endTime": "2017-11-16 11:47:31",
+        "mallUrl": "购买地址"
+      }
+    ]
+  },
+  "updatePointsPresent": {
+    "code": "10000",
+    "desc": "成功"
+  },
+  "deletePointsPresent": {
+    "code": "10000",
+    "desc": "成功"
+  },
+  "addPointsPresent": {
+    "code": "10000",
+    "desc": "成功",
+    "data": 126
+  },
+
+  "getLuckyDrawConfig": {
+    "code": "10000",
+    "desc": "成功",
+    "data": {
+      "id": 54,
+      "name": "积分抽奖",
+      "type": "luckyDraw",
+      "point": "5.0",
+      "multi": "1.05"
+    }
+  },
+  "updatePointsPresent":{"code":"10000","desc":"成功"},
+
+  "getAllLuckyDrawPresent": {
+    "code": "10000",
+    "desc": "成功",
+    "data": [
+      {
+        "id": 1,
+        "name": "谢谢参与",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506677066525.png",
+        "remark": "谢谢参与",
+        "weight": "1.0",
+        "order": 1
+      },
+      {
+        "id": 2,
+        "name": "存送优惠券",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170927_1506493094120.png",
+        "type": "coupon",
+        "remark": "PT-100",
+        "weight": "1250.0",
+        "order": 2
+      },
+      {
+        "id": 3,
+        "name": "存送优惠券",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170927_1506493104796.png",
+        "type": "coupon",
+        "remark": "DT-100",
+        "weight": "1250.0",
+        "order": 3
+      },
+      {
+        "id": 4,
+        "name": "手机流量",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506673285759.png",
+        "type": "phoneData",
+        "remark": "500",
+        "weight": "1250.0",
+        "order": 4
+      },
+      {
+        "id": 5,
+        "name": "彩金",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506673617240.png",
+        "type": "money",
+        "remark": "40",
+        "weight": "1250.0",
+        "order": 5
+      },
+      {
+        "id": 6,
+        "name": "彩金",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506673302828.png",
+        "type": "money",
+        "remark": "60",
+        "weight": "1250.0",
+        "order": 6
+      },
+      {
+        "id": 7,
+        "name": "手机话费",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506673626923.png",
+        "type": "phoneFee",
+        "remark": "200",
+        "weight": "1250.0",
+        "order": 7
+      },
+      {
+        "id": 8,
+        "name": "手机话费",
+        "img": "https://cdn1.shzibeisy.com/app/gift/20170929_1506677472143.png",
+        "type": "phoneFee",
+        "remark": "200",
+        "weight": "2499.0",
+        "order": 8
+      }
+    ]
+  },
+  "changeLuckyDrawPresent": {
+    "code": "10000",
+    "desc": "成功"
+  },
+
+  "pointsPresentUpload": {
+    "code": "10000",
+    "data": "https://cdn1.shzibeisy.com/app/gift/20170927_1506492437558.png",
+    "desc": "成功"
+  },
+  "luckyDrawUpload":{
+    "code": "10000",
+    "data": "https://cdn1.shzibeisy.com/app/gift/20170927_1506492437558.png",
+    "desc": "成功"
+  }
+}
